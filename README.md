@@ -3,8 +3,8 @@
 
 
 ## Client Site Repo
-[https://https://github.com/medmaha/celesup-client]
+[https://github.com/medmaha/celesup-client] visit link
 
 ## Server Site Repo
-[https://https://github.com/medmaha/celesup-server]
+[https://github.com/medmaha/celesup-server] visit link
 
